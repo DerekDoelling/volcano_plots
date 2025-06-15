@@ -30,6 +30,9 @@ When comparing gene expression levels between a healthy and a diseased state (su
 •	Top corners: Genes with both large fold changes and high statistical significance—these are your potential key drivers or biomarkers of disease.
 
 ## Example
+
+![plot](https://github.com/DerekDoelling/volcano_plots/blob/main/6bddaf7b-d671-4d8b-9c10-6ce8799085eb.jpg)
+
 The volcano plot above illustrates the differential gene expression between diseased and healthy samples. Genes highlighted in the blue region are significantly downregulated, while those in the red region are significantly upregulated—based on the log fold change calculated as diseased minus healthy expression levels. In this case, we observe eight downregulated genes and only one upregulated gene when this species is affected by the disease under investigation. Having identified these differentially expressed genes, we can now begin to explore their biological roles—such as involvement in the immune system—and investigate why this single gene is upregulated in the diseased state. This sets the stage for deeper functional analysis and hypothesis generation.
 
 ## Summary
